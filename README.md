@@ -2,7 +2,7 @@
 - 🎓 I'm a Computer Engineering major at San Diego State University
 - 🔭 I'm currently working on a full-stack development project, handling both the front-end and back-end aspects
 - 👨🏻‍💻 I'm interested in software, hardware, embedded systems, machine learning, electronics, and everything related to computers
-- 📝 I'm currently learning HTML, CSS, JavaScript, React, Django, MySQL, and Verilog
+- 📝 I'm currently learning HTML, CSS, JavaScript, React, Django, MySQL, Verilog, and MatLab
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/abdul-karim-tamim02/)
 - ✉️ You can reach me by [Email](atamim6566@sdsu.edu)
 
@@ -22,6 +22,7 @@
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" onmouseover="this.title;" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" onmouseover="this.title;" />
 <img align="left" alt="Verilog" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/verilog-icon-474x512-2fxlui3x.png" title="Verilog" onmouseover="this.title;" />
+<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" title="MatLab" onmouseover="this.title;" />
 
 
 
