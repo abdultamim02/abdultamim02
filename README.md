@@ -2,7 +2,7 @@
 - 🎓 I'm a Computer Engineering major at San Diego State University
 - 👨🏻‍💻 I'm interested in software, hardware, embedded systems, machine learning, and everything related to computers
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/abdul-karim-tamim02/)
-- ✉️ You can reach me by [Email](mailto:atamim6566@sdsu.edu)
+- ✉️ You can reach me by [atamim6566@sdsu.edu](mailto:atamim6566@sdsu.edu)
 
 <h3>Experienced With</h3>
 <a href="#" style="pointer-events: none;">
