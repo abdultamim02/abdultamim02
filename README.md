@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Abdul Karim Tamim
 - 🎓 I'm a Computer Engineering major at San Diego State University
-- 👨🏻‍💻 I'm interested in software, hardware, embedded systems, machine learning, and everything related to computers
+- 👨🏻‍💻 I'm interested in software, hardware, embedded systems, accelerated computing, machine learning, and everything related to computers
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/abdul-karim-tamim02/)
 - ✉️ You can reach me by [atamim6566@sdsu.edu](mailto:atamim6566@sdsu.edu)
 
@@ -10,6 +10,9 @@
 </a>
 <a href="#" style="pointer-events: none;">
     <img align="left" alt="C++" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" onmouseover="this.title;" />
+</a>
+<a href="#" style="pointer-events: none;">
+    <img align="left" alt="CUDA" width="30px" style="padding-right:10px; pointer-events: none;" src="https://github.com/user-attachments/assets/bd6d1ca9-2840-4a1c-a5a7-da33afe255e3" title="CUDA" onmouseover="this.title;" />
 </a>
 <a href="#" style="pointer-events: none;">
     <img align="left" alt="Python" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" onmouseover="this.title;" />
@@ -31,9 +34,6 @@
 </a>
 <a href="#" style="pointer-events: none;">
     <img align="left" alt="Django" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" onmouseover="this.title;" />
-</a>
-<a href="#" style="pointer-events: none;">
-    <img align="left" alt="MySQL" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" onmouseover="this.title;" />
 </a>
 <a href="#" style="pointer-events: none;">
     <img align="left" alt="Verilog" width="30px" style="padding-right:10px; pointer-events: none;" src="https://www.svgrepo.com/show/374163/verilog.svg" title="Verilog" onmouseover="this.title;" />
