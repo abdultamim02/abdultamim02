@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Abdul Karim Tamim
-- 🎓 I'm a Computer Engineering major at San Diego State University
-- 👨🏻‍💻 I'm interested in software, hardware, embedded systems, accelerated computing, machine learning, and everything related to computers
+- 🎓 I am a Recent Computer Engineering Graduate from San Diego State University
+- 👨🏻‍💻 I am interested in software, hardware, embedded systems, FPGA design, firmware engineering, accelerated computing, and everything related to computers
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/abdul-karim-tamim02/)
-- ✉️ You can reach me by [atamim6566@sdsu.edu](mailto:atamim6566@sdsu.edu)
+- ✉️ You can reach me by [abdulktamim25@gmail.com](mailto:abdulktamim25@gmail.com)
 
 <h3>Experienced With</h3>
 <a href="#" style="pointer-events: none;">
